@@ -1,5 +1,6 @@
 <p>
   <img src="https://weather-icon.journeyad.repl.co/@xian?v=1" align="right">
+  <img src="https://count.getloli.com/get/@zhxycn?theme=moebooru" alt="@zhxycn" />
 </p>
 
 ### Hi there 👋
