@@ -12,7 +12,7 @@
 [![info](https://github-readme-stats.vercel.app/api?username=zhxycn&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhxycn&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhxycn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Github Activity
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhxycn&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
